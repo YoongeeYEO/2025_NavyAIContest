@@ -5,6 +5,8 @@
 
 저작권 문제로 주최측에서 제공한 데이터셋은 비공개합니다.
 
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/d9793d03-5c00-419d-94c7-7ff159fb6aa9" />
+
 ## AIS상 의심선박 탐지 문제(#1)
 - 데이터 : 해수부 AIS 정보(2023.06.01. ~ 2024.05.31./1년) 제공 / 총 366개 파일(.csv)
   
